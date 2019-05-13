@@ -11,7 +11,7 @@ using System.Threading.Tasks;
 
 namespace Homework_1_Aplicada_1
 {
-    class Program
+    public class Cap1_Ejercicio_5
     {
         static void Main(string[] args)
         {
